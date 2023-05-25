@@ -1,0 +1,13 @@
+{
+    "host": "localhost",
+    "port": 5432,
+    "user": "postgres",
+    "password": "postgres",
+    "database": "test",
+    "tables": ["test","test2"],
+    "schemas": {
+      "test": "public"
+    },
+    "primary_key_fields": ["id"]
+}
+  
