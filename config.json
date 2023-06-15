@@ -4,10 +4,9 @@
     "user": "postgres",
     "password": "postgres",
     "database": "test",
-    "tables": ["test","test2"],
+    "tables": ["test3"],
     "schemas": {
       "test": "public"
     },
     "primary_key_fields": ["id"]
 }
-  
