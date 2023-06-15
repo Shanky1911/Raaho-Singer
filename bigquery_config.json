@@ -1,6 +1,7 @@
 {
     "project_id": "ds-labs-377209",
-    "dataset_id": "postgresToBigQuery2",
-    "keyfile_path": "client_secrets.json"
+    "dataset_id": "postgresToBigQuery",
+    "keyfile_path": "client_secrets.json",
+    "temp_table_id": "temp_table",
+    "batch_size": 1000
 }
-  
